@@ -1,5 +1,6 @@
 # Hér koma reglurnar
 English
+
 During the game, a sequence of colors will light up on the LED.
 Your goal is to carefully watch and remember the colors in the correct order.
 When you are ready to play your turn, press the big button in the middle on your side of the game. This starts your turn.
@@ -9,6 +10,7 @@ If you repeat the sequence correctly, you earn a point and move the crown one st
 The game continues with players taking turns. The first player to move the crown forward five steps wins the game.
 
 Islenska 
+
 Meðan á leiknum stendur mun röð lita lýsast upp á LED-ljósinu.
 Markmið þitt er að fylgjast vel með og muna litina í réttri röð.
 Þegar þú ert tilbúinn að taka þína umferð skaltu ýta á stóra takkann í miðjunni á þinni hlið leiksins. Þetta byrjar þína umferð.
