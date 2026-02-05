@@ -2,4 +2,4 @@
 
 3:februar ákveðum við að gera svona giska litin spil og byrjuðum á prototypeinu  og limdum allt saman og erum bara komin á góða leið 
 
-5:febrúar byrjuðum við á inkscape og gerðum þettatilbúið í að fara i skurð dæmið og svo höldum við afram 
+5:febrúar byrjuðum við á inkscape og gerðum þettatilbúið í að fara i skurð dæmið og svo höldum við afram með github skjalið og qr koða 
