@@ -1,7 +1,7 @@
 # Inngangur
 
 
-# Spilarelu
+# Spilarelur
 
 ### English
 
@@ -22,4 +22,8 @@ Meðan á leiknum stendur mun röð lita lýsast upp á LED-ljósinu. Markmið �
 <img width="78" height="78" alt="image" src="https://github.com/user-attachments/assets/33466861-af41-49f4-8dc2-7327407d8e5c" />
 
 # Hönunnarskrá
+
+### 3D hönnun
+
+### 2D hönnun
 
