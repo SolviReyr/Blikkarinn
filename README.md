@@ -24,6 +24,6 @@ Meðan á leiknum stendur mun röð lita lýsast upp á LED-ljósinu. Markmið �
 # Hönunnarskrá
 
 ### 3D hönnun
-[kóronur](3dKórona.stl)
+[kóronur](3dKorona.stl)
 ### 2D hönnun
 
