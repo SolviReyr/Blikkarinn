@@ -1,11 +1,11 @@
-# Inngangur
+## Inngangur
 **Authors:** Sölvi Reyr and Francheska Margaret 
 
 ### Short description
 This game is a memory and reaction game where players compete to remember and repeat a sequence of colors shown on LED lights. The game combines simple controls with increasing difficulty, challenging players to stay focused and accurate. The goal is to carefully observe the color sequence, repeat it correctly, and be the first player to move the crown five steps forward on the board.
 
 
-# Spilarelur
+## Spilarelur
 
 ### English
 
@@ -15,7 +15,7 @@ During the game, a sequence of colors will light up on the LED. Your goal is to 
 
 Meðan á leiknum stendur mun röð lita lýsast upp á LED-ljósinu. Markmið þitt er að fylgjast vel með og muna litina í réttri röð. Þegar þú ert tilbúinn að taka þína umferð skaltu ýta á stóra takkann í miðjunni á þinni hlið leiksins. Þetta byrjar þína umferð. Eftir að þú hefur ýtt á stóra takkann skaltu endurtaka litaröðina með því að ýta á litlu takkanna. Hver lítill takki táknar lit: rauðan, bláan, grænan og gulan. Reyndu að ýta á takkana í sömu röð og litirnir sem birtust á LED-ljósinu. Ef þú endurtekur röðina rétt færðu eitt stig og færir kórónuna eitt skref áfram á borðinu. Leikurinn heldur áfram þar sem leikmenn skiptast á að taka umferðir. Sá leikmaður sem er fyrstur til að færa kórónuna fimm skref áfram vinnur leikinn.
 
-# Myndefni
+## Myndefni
 
 Þetta er Prototype 1
 
@@ -27,6 +27,7 @@ Meðan á leiknum stendur mun röð lita lýsast upp á LED-ljósinu. Markmið �
 
 ![IMG_0839](https://github.com/user-attachments/assets/c9b0e30b-5173-42da-8913-4ea1a43941d1)
 
+[QR kóði](QR_Code_1770721629.svg)
 
 <img width="78" height="78" alt="image" src="https://github.com/user-attachments/assets/33466861-af41-49f4-8dc2-7327407d8e5c" />
 
