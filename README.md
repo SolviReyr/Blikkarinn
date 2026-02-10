@@ -12,11 +12,15 @@ During the game, a sequence of colors will light up on the LED. Your goal is to 
 Meðan á leiknum stendur mun röð lita lýsast upp á LED-ljósinu. Markmið þitt er að fylgjast vel með og muna litina í réttri röð. Þegar þú ert tilbúinn að taka þína umferð skaltu ýta á stóra takkann í miðjunni á þinni hlið leiksins. Þetta byrjar þína umferð. Eftir að þú hefur ýtt á stóra takkann skaltu endurtaka litaröðina með því að ýta á litlu takkanna. Hver lítill takki táknar lit: rauðan, bláan, grænan og gulan. Reyndu að ýta á takkana í sömu röð og litirnir sem birtust á LED-ljósinu. Ef þú endurtekur röðina rétt færðu eitt stig og færir kórónuna eitt skref áfram á borðinu. Leikurinn heldur áfram þar sem leikmenn skiptast á að taka umferðir. Sá leikmaður sem er fyrstur til að færa kórónuna fimm skref áfram vinnur leikinn.
 
 # Myndefni
+
 Þetta er Prototype 1
+
 <img src="https://github.com/user-attachments/assets/103f5faf-5d05-4475-ae00-9760f5d3e2b5" heigth=50% width=50%>
 
 ---
+
 Þetta er lokaútgáfa
+
 ![IMG_0839](https://github.com/user-attachments/assets/c9b0e30b-5173-42da-8913-4ea1a43941d1)
 
 
