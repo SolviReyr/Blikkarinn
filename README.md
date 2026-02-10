@@ -1,7 +1,8 @@
 # Inngangur
 **Authors:** Sölvi Reyr and Francheska Margaret 
 
-**Short description:** This game is a memory and reaction game where players compete to remember and repeat a sequence of colors shown on LED lights. The game combines simple controls with increasing difficulty, challenging players to stay focused and accurate. The goal is to carefully observe the color sequence, repeat it correctly, and be the first player to move the crown five steps forward on the board.
+### Short description
+This game is a memory and reaction game where players compete to remember and repeat a sequence of colors shown on LED lights. The game combines simple controls with increasing difficulty, challenging players to stay focused and accurate. The goal is to carefully observe the color sequence, repeat it correctly, and be the first player to move the crown five steps forward on the board.
 
 
 # Spilarelur
