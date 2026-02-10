@@ -24,6 +24,6 @@ Meðan á leiknum stendur mun röð lita lýsast upp á LED-ljósinu. Markmið �
 # Hönunnarskrá
 
 ### 3D hönnun
-[kóronur](Sölvi_og_Francheska_Margaret-8.stl)
+[kóronur](3dKórona)
 ### 2D hönnun
 
