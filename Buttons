@@ -1,0 +1,86 @@
+from machine import Pin
+from time import sleep
+
+led1 = Pin(40, Pin.OUT)
+button1 = Pin(41, Pin.IN, Pin.PULL_UP)
+
+led2 = Pin(39, Pin.OUT)
+button2 = Pin(38, Pin.IN, Pin.PULL_UP)
+
+led3 = Pin(37, Pin.OUT)
+button3 = Pin(36, Pin.IN, Pin.PULL_UP)
+
+led4 = Pin(47, Pin.OUT)
+button4 = Pin(48, Pin.IN, Pin.PULL_UP)
+
+led5 = Pin(15, Pin.OUT)
+button5 = Pin(16, Pin.IN, Pin.PULL_UP)
+
+led6 = Pin(6, Pin.OUT)
+button6 = Pin(7, Pin.IN, Pin.PULL_UP)
+
+led7 = Pin(1, Pin.OUT)
+button7 = Pin(2, Pin.IN, Pin.PULL_UP)
+
+led8 = Pin(18, Pin.OUT)
+button8 = Pin(8, Pin.IN, Pin.PULL_UP)
+
+led9 = Pin(12, Pin.OUT)
+big_button9 = Pin(10, Pin.IN, Pin.PULL_UP)
+
+led10 = Pin(9, Pin.OUT)
+big_button10 = Pin(10, Pin.IN, Pin.PULL_UP)
+
+while True:
+    
+    if not button1.value():
+        led1.on()
+    else:
+        led1.off()
+        
+    if not button2.value():
+        led2.on()
+    else:
+        led2.off()
+
+    if not button3.value():
+        led3.on()
+    else:
+        led3.off()
+
+    if not button4.value():
+        led4.on()
+    else:
+        led4.off()
+
+    if not button5.value():
+        led5.on()
+    else:
+        led5.off()
+
+    if not button6.value():
+        led6.on()
+    else:
+        led6.off()
+
+    if not button7.value():
+        led7.on()
+    else:
+        led7.off()
+    
+    if not button8.value():
+        led8.on()
+    else:
+        led8.off()
+    
+    if not big_button9.value():
+        led9.on()
+    else:
+        led9.off()
+
+    if not big_button10.value():
+        led10.on()
+    else:
+        led10.off()
+
+    sleep(0.01)
