@@ -37,3 +37,23 @@ Meðan á leiknum stendur mun röð lita lýsast upp á LED-ljósinu. Markmið �
 [kóronur](3dKorona.stl)
 ### 2D hönnun
 ![inkscape](Inkscape.svg)
+
+
+
+
+<img src="https://github.com/user-attachments/assets/9ee70c82-c90a-4383-b523-254fd83d7ad7" heigth=50% width=50%>
+
+
+
+
+<img src="https://github.com/user-attachments/assets/e4f39751-5c75-4e68-b275-ffcbc548cddb" heigth=50% width=50%/> 
+
+
+
+
+<img src="https://github.com/user-attachments/assets/cbace65c-a0ff-4bb2-8f94-a81751440ac8" heigth=50% width=50%/> 
+
+
+
+
+<img src="https://github.com/user-attachments/assets/3c73626c-3712-4812-a6af-278fcb0977c8" heigth=50% width=50%/>
