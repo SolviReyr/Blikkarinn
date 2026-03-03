@@ -39,7 +39,7 @@ Meðan á leiknum stendur mun röð lita lýsast upp á LED-ljósinu. Markmið �
 ![inkscape](Inkscape.svg)
 
 
-
+## Svo kemur núna feril okkur í seinna verkefninu
 
 <img src="https://github.com/user-attachments/assets/9ee70c82-c90a-4383-b523-254fd83d7ad7" heigth=50% width=50%>
 
