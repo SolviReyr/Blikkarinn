@@ -1,4 +1,5 @@
 Hjalpar code 
+
 from machine import Pin, SoftI2C
 from neopixel import NeoPixel
 import time
